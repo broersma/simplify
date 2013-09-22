@@ -1,0 +1,2 @@
+John owes Bill $40.00
+Bill owes John $20.00
