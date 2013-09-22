@@ -14,7 +14,7 @@ Usage
 
 With an input text file:
 
-$ python simplify.py < my_data
+$ python simplify.py < input.txt
 
 or using standard input:
 
