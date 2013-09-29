@@ -3,11 +3,11 @@ Installation
 
 simplify.py depends on networkx>=1.7.0 which can be installed from PyPI using pip:
 
-$ pip install networkx
+`$ pip install networkx`
 
 or setuptools:
 
-$ easy_install networkx
+`$ easy_install networkx`
 
 Usage
 =====
