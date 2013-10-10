@@ -1,3 +1,8 @@
+About
+=====
+
+simplify.py is a small Python script to simplify listings of who owes money to whom. It depends on networkx to calculate the optimal flow graph which is used to find the minimal set of transactions to resolve all debts.
+
 Installation
 ============
 
